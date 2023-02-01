@@ -1,7 +1,7 @@
 # Onboarding - Flutter UI 
 
 ## Video Preview
-![Preview](/preview.mp4)
+![Watch the video](/preview.mp4)
 
 <!-- ## Photos
 ![Preview](/1.png)
